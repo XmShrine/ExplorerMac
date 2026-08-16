@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/icon.png" width="128" alt="ExplorerMac">
+  <img src="icon.png" width="128" alt="ExplorerMac">
 </p>
 
 <h1 align="center">ExplorerMac</h1>
